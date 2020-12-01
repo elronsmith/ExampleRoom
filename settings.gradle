@@ -1,3 +1,4 @@
+include ':libdatabase3'
 include ':libdatabase2'
 include ':libdatabase1'
 include ':libdatabase'
