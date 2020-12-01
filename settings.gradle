@@ -1,2 +1,3 @@
+include ':libdatabase'
 include ':app'
 rootProject.name = "ExampleRoom"
